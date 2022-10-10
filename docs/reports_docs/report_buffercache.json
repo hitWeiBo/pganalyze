@@ -1,0 +1,42 @@
+{
+  state: "",
+  sizeCache: 0,
+  unknownFields: [
+    
+  ],
+  ReportRunId: "2",
+  ReportType: "buffercache",
+  CollectedAt: "",
+  Data: {
+    BuffercacheReportData: {
+      state: "",
+      sizeCache: 0,
+      unknownFields: "",
+      DatabaseReferences: [
+        {
+          state: "",
+          sizeCache: 0,
+          unknownFields: [
+            
+          ],
+          Name: "postgres"
+        }
+      ],
+      BuffercacheEntries: [
+        {
+          state: "",
+          sizeCache: 0,
+          unknownFields: [
+            
+          ],
+          DatabaseIdx: 0,
+          SchemaName: "pg_catalog",
+          ObjectName: "pg_amop_fam_strat_index",
+          ObjectKind: "i",
+          Bytes: 32768,
+          Toast: false
+        }
+      ]
+    }
+  }
+}

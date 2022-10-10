@@ -1,0 +1,262 @@
+{
+   "state":{
+      "NoUnkeyedLiterals":{
+         
+      },
+      "DoNotCompare":[
+         
+      ],
+      "DoNotCopy":[
+         
+      ],
+      "atomicMessageInfo":""
+   },
+   "sizeCache":0,
+   "unknownFields":[
+      
+   ],
+   "SnapshotVersionMajor":1,
+   "SnapshotVersionMinor":0,
+   "CollectorVersion":"pganalyze-collector 0.44.0",
+   "FailedRun":false,
+   "SnapshotUuid":"b3a00ad1-8df8-47da-af68-c1d3d4aa36a8",
+   "CollectedAt":"",
+   "CollectedIntervalSecs":4793,
+   "Config":{
+      "state":"",
+      "sizeCache":0,
+      "unknownFields":[
+         
+      ],
+      "SectionName":"server1",
+      "DisableLogs":false,
+      "DisableActivity":false,
+      "EnableLogExplain":false,
+      "DbName":"postgres",
+      "DbUsername":"weibo",
+      "DbHost":"localhost",
+      "DbPort":0,
+      "DbSslmode":"",
+      "DbHasSslrootcert":false,
+      "DbHasSslcert":false,
+      "DbHasSslkey":false,
+      "DbUrl":"",
+      "DbExtraNames":[
+         
+      ],
+      "DbAllNames":false,
+      "AwsRegion":"",
+      "AwsDbInstanceId":"",
+      "AwsHasAccessKeyId":false,
+      "AwsHasAssumeRole":false,
+      "AwsHasAccountId":false,
+      "AwsHasWebIdentityTokenFile":false,
+      "AwsHasRoleArn":false,
+      "AzureDbServerName":"",
+      "AzureEventhubNamespace":"",
+      "AzureEventhubName":"",
+      "AzureAdTenantId":"",
+      "AzureAdClientId":"",
+      "AzureHasAdCertificate":false,
+      "GcpCloudsqlInstanceId":"",
+      "GcpPubsubSubscription":"",
+      "GcpHasCredentialsFile":false,
+      "GcpProjectId":"",
+      "CrunchyBridgeClusterId":"",
+      "ApiSystemId":"weibombp",
+      "ApiSystemType":"self_hosted",
+      "ApiSystemScope":"0/postgres",
+      "ApiSystemScopeFallback":"",
+      "DbLogLocation":"",
+      "DbLogDockerTail":"",
+      "IgnoreTablePattern":"",
+      "IgnoreSchemaRegexp":"",
+      "QueryStatsInterval":60,
+      "MaxCollectorConnections":10,
+      "SkipIfReplica":false,
+      "FilterLogSecret":"",
+      "FilterQuerySample":"",
+      "HasProxy":false,
+      "ConfigFromEnv":false,
+      "FilterQueryText":""
+   },
+   "CollectorStatistic":{
+      "state":"",
+      "sizeCache":0,
+      "unknownFields":[
+         
+      ],
+      "GoVersion":"go1.18.3",
+      "MemoryHeapAllocatedBytes":6511976,
+      "MemoryHeapObjects":35904,
+      "MemorySystemBytes":26297352,
+      "MemoryRssBytes":28688384,
+      "ActiveGoroutines":15,
+      "CgoCalls":-72
+   },
+   "CollectorErrors":[
+      
+   ],
+   "CollectorStartedAt":"",
+   "CollectorHostname":"weibombp",
+   "CollectorArchitecture":"amd64",
+   "CollectorOperatingSystem":"darwin",
+   "CollectorPlatform":"darwin",
+   "CollectorPlatformFamily":"Standalone Workstation",
+   "CollectorPlatformVersion":"12.4",
+   "CollectorVirtualizationSystem":"",
+   "CollectorKernelVersion":"21.5.0",
+   "CollectorLogSnapshotDisabled":false,
+   "CollectorLogSnapshotDisabledReason":"",
+   "System":{
+      "state":"",
+      "SystemInformation":"",
+      "SystemId":"weibombp",
+      "SystemScope":"0/postgres",
+      "SchedulerStatistic":"",
+      "MemoryStatistic":"",
+      "CpuInformation":"",
+      "CpuReferences":[
+         
+      ],
+      "CpuStatistics":[
+         
+      ],
+      "NetworkReferences":[
+         
+      ],
+      "NetworkStatistics":[
+         
+      ],
+      "DiskReferences":[
+         
+      ],
+      "DiskInformations":[
+         
+      ],
+      "DiskStatistics":[
+         
+      ],
+      "DiskPartitionReferences":[
+         
+      ],
+      "DiskPartitionInformations":[
+         
+      ],
+      "DiskPartitionStatistics":[
+         
+      ],
+      "DataDirectoryDiskPartitionIdx":0,
+      "XlogDiskPartitionIdx":0,
+      "XlogUsedBytes":0
+   },
+   "PostgresVersion":{
+      "state":"",
+      "sizeCache":0,
+      "unknownFields":[
+         
+      ],
+      "Full":"PostgreSQL 14.4 on x86_64-apple-darwin21.5.0, compiled by Apple clang version 13.1.6 (clang-1316.0.21.2.5), 64-bit",
+      "Short":"14.4",
+      "Numeric":140004
+   },
+   "RoleReferences":[
+      
+   ],
+   "DatabaseReferences":[
+      
+   ],
+   "RoleInformations":[
+      
+   ],
+   "DatabaseInformations":[
+      
+   ],
+   "Settings":[
+      
+   ],
+   "Replication":{
+      "state":"",
+      "sizeCache":0,
+      "unknownFields":[
+         
+      ],
+      "InRecovery":"False",
+      "CurrentXlogLocation":"0/1800968",
+      "StandbyReferences":[
+         
+      ],
+      "StandbyInformations":[
+         
+      ],
+      "StandbyStatistics":[
+         
+      ],
+      "IsStreaming":false,
+      "ReceiveLocation":"",
+      "ReplayLocation":"0/17D9520",
+      "ApplyByteLag":0,
+      "ReplayTimestamp":"",
+      "ReplayTimestampAge":0
+   },
+   "BackendCountStatistics":[
+      
+   ],
+   "TablespaceReferences":[
+      
+   ],
+   "TablespaceInformations":[
+      
+   ],
+   "QueryReferences":[
+      
+   ],
+   "RelationReferences":[
+      
+   ],
+   "IndexReferences":[
+      
+   ],
+   "FunctionReferences":[
+      
+   ],
+   "QueryInformations":[
+      
+   ],
+   "QueryStatistics":[
+      
+   ],
+   "HistoricQueryStatistics":[
+      
+   ],
+   "QueryExplains":[
+      
+   ],
+   "RelationInformations":[
+      
+   ],
+   "RelationStatistics":[
+      
+   ],
+   "RelationEvents":[
+      
+   ],
+   "IndexInformations":[
+      
+   ],
+   "IndexStatistics":[
+      
+   ],
+   "FunctionInformations":[
+      
+   ],
+   "FunctionStatistics":[
+      
+   ],
+   "CustomTypeInformations":[
+      
+   ],
+   "Extensions":[
+      
+   ]
+}

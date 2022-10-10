@@ -1,0 +1,109 @@
+{
+    state: {
+      NoUnkeyedLiterals: {
+        
+      },
+      DoNotCompare: [
+        
+      ],
+      DoNotCopy: [
+        
+      ],
+      atomicMessageInfo: ""
+    },
+    sizeCache: 0,
+    unknownFields: [
+      
+    ],
+    SnapshotVersionMajor: 1,
+    SnapshotVersionMinor: 0,
+    CollectorVersion: "pganalyze-collector 0.44.0",
+    SnapshotUuid: "49679fd5-36f6-4ca9-b019-44aa09b86795",
+    CollectedAt: "",
+    BaseRefs: {
+      state: "",
+      sizeCache: 0,
+      unknownFields: [
+        
+      ],
+      RoleReferences: [
+        
+      ],
+      DatabaseReferences: [
+        {
+          state: "",
+          sizeCache: 0,
+          unknownFields: [
+            
+          ],
+          Name: "test"
+        },
+        {
+          state: "",
+          sizeCache: 0,
+          unknownFields: [
+            
+          ],
+          Name: "postgres"
+        }
+      ],
+      QueryReferences: [
+        {
+          state: "",
+          sizeCache: 0,
+          unknownFields: [
+            
+          ],
+          DatabaseIdx: 0,
+          RoleIdx: 0,
+          Fingerprint: [
+            216,
+            209,
+            63,
+            139,
+            45,
+            166,
+            201,
+            173
+          ]
+        }
+      ],
+      QueryInformations: [
+        {
+          state: "",
+          sizeCache: 0,
+          unknownFields: [
+            
+          ],
+          QueryIdx: 0,
+          NormalizedQuery: "",
+          QueryIds: [
+            
+          ]
+        }
+      ],
+      RelationReferences: [
+        
+      ]
+    },
+    Data: {
+      ActivitySnapshot: {
+        state: "",
+        sizeCache: 0,
+        unknownFields: [
+          
+        ],
+        PostgresVersion: "",
+        Backends: [
+          
+        ],
+        PrevActivitySnapshotAt: "",
+        VacuumProgressInformations: [
+          
+        ],
+        VacuumProgressStatistics: [
+          
+        ]
+      }
+    }
+  }

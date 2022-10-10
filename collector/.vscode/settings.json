@@ -1,0 +1,6 @@
+{
+    "go.gopath": "/usr/local/Cellar/go",
+    "go.goroot": "/usr/local/Cellar/go/1.18.3/libexec",
+    "go.toolsManagement.autoUpdate": true,
+    "go.toolsManagement.checkForUpdates": "local"
+}
